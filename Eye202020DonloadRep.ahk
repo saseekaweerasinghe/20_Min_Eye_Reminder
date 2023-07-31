@@ -8,6 +8,5 @@
     "Settings": "C:\\Users\\user\\Desktop\\2067.2020.Sinhala.S908title.rar",
     "Image": "C:\\Users\\user\\Desktop\\2067.2020.Sinhala.Sul;lle.rar",
     "IcoDLL": "C:\\Users\\user\\Desktop\\2067.2020.Sinhala.Subti980le.rar"
-  },
-  "ReplaceArr": "1/0/0/0/0"
+  }
 }
